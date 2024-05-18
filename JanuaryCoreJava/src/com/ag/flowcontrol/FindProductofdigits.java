@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class FindProductofdigits {
 	
 
-	public class ProductOfDigits {
 	    public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 	        
@@ -33,5 +32,3 @@ public class FindProductofdigits {
 	        return product;
 	    }
 	}
-
-}
